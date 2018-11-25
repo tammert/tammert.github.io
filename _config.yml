@@ -1,1 +1,7 @@
-theme: jekyll-theme-hacker
+# Site settings:
+title: Tammer IT Solutions
+description: Company website for Tammer IT Solutions. Fully owned and run by Sebastiaan Tammer, an Utrecht-based freelancer with a focus on Linux, Security, DevOps and Cloud.
+
+# Build settings:
+markdown: kramdown
+remote_theme: tammert/hacker
