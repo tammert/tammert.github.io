@@ -48,7 +48,7 @@
 ## Miscellaneous
 
 ### Book author @ Packt Publishing [Jun 2018 - Dec 2018]
-* [Learn Linux Shell Scripting - Fundamentals of Bash 4.4](https://www.packtpub.com/networking-and-servers/learn-linux-shell-scripting-%E2%80%93-fundamentals-bash-44).
+* [Learn Linux Shell Scripting - Fundamentals of Bash 4.4](https://www.packtpub.com/networking-and-servers/learn-linux-shell-scripting-fundamentals-bash-44).
 
 As the author, I determined the scope and content for the book. And wrote the whole thing, of course.
 
